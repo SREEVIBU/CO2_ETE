@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/SREEVIBU/OneDrive/Desktop/ETE_2_CO2/mlruns/127392903406511617/d0cd04dfe5c4429ca4ccb6286f1101d9/artifacts
+end_time: 1761500230883
+entry_point_name: ''
+experiment_id: '127392903406511617'
+lifecycle_stage: active
+run_id: d0cd04dfe5c4429ca4ccb6286f1101d9
+run_name: XGBRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761500220017
+status: 3
+tags: []
+user_id: SREEVIBU

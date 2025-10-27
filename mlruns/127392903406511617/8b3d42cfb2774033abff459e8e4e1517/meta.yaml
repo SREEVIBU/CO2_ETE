@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/SREEVIBU/OneDrive/Desktop/ETE_2_CO2/mlruns/127392903406511617/8b3d42cfb2774033abff459e8e4e1517/artifacts
+end_time: 1761500125587
+entry_point_name: ''
+experiment_id: '127392903406511617'
+lifecycle_stage: active
+run_id: 8b3d42cfb2774033abff459e8e4e1517
+run_name: LinearRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761500115993
+status: 3
+tags: []
+user_id: SREEVIBU

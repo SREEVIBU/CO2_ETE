@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/SREEVIBU/OneDrive/Desktop/ETE_2_CO2/mlruns/127392903406511617/84f6697781174ba9a643f05085fc40af/artifacts
+end_time: 1761498253183
+entry_point_name: ''
+experiment_id: '127392903406511617'
+lifecycle_stage: active
+run_id: 84f6697781174ba9a643f05085fc40af
+run_name: LassoCV
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761498238998
+status: 3
+tags: []
+user_id: SREEVIBU

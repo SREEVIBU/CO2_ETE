@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/SREEVIBU/OneDrive/Desktop/ETE_2_CO2/mlruns/127392903406511617/bcb9bbea577141da9bb8896b0a00ae73/artifacts
+end_time: 1761497802231
+entry_point_name: ''
+experiment_id: '127392903406511617'
+lifecycle_stage: active
+run_id: bcb9bbea577141da9bb8896b0a00ae73
+run_name: support vector regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761497097714
+status: 4
+tags: []
+user_id: SREEVIBU

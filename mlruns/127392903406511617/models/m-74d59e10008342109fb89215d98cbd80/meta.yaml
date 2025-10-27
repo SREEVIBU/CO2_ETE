@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/SREEVIBU/OneDrive/Desktop/ETE_2_CO2/mlruns/127392903406511617/models/m-74d59e10008342109fb89215d98cbd80/artifacts
+creation_timestamp: 1761498121821
+experiment_id: '127392903406511617'
+last_updated_timestamp: 1761498129399
+model_id: m-74d59e10008342109fb89215d98cbd80
+model_type: null
+name: model
+source_run_id: 1aff6e9ff37444aa92dcd38a2c9373c9
+status: 2
+status_message: null
