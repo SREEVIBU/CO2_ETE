@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/SREEVIBU/OneDrive/Desktop/ETE_2_CO2/mlruns/127392903406511617/d7b84d5a6e37438db9a8fd3fd9eda104/artifacts
+end_time: 1761531884765
+entry_point_name: ''
+experiment_id: '127392903406511617'
+lifecycle_stage: active
+run_id: d7b84d5a6e37438db9a8fd3fd9eda104
+run_name: GradientBoostingRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761531884382
+status: 3
+tags: []
+user_id: SREEVIBU

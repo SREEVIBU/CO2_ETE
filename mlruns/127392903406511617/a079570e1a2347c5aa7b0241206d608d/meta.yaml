@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/SREEVIBU/OneDrive/Desktop/ETE_2_CO2/mlruns/127392903406511617/a079570e1a2347c5aa7b0241206d608d/artifacts
+end_time: 1761531884375
+entry_point_name: ''
+experiment_id: '127392903406511617'
+lifecycle_stage: active
+run_id: a079570e1a2347c5aa7b0241206d608d
+run_name: RandomForestRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761531883466
+status: 3
+tags: []
+user_id: SREEVIBU

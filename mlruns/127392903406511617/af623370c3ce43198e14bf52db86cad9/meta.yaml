@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/SREEVIBU/OneDrive/Desktop/ETE_2_CO2/mlruns/127392903406511617/af623370c3ce43198e14bf52db86cad9/artifacts
+end_time: 1761531883461
+entry_point_name: ''
+experiment_id: '127392903406511617'
+lifecycle_stage: active
+run_id: af623370c3ce43198e14bf52db86cad9
+run_name: DecisionTreeRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761531883383
+status: 3
+tags: []
+user_id: SREEVIBU
