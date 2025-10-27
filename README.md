@@ -2,6 +2,8 @@
 
 🌍 CO₂ Emission Prediction App
 
+#APP LINK :- https://co2ete-3mykpc6pm7sehhuvjsg8ma.streamlit.app/
+
 This Streamlit web application predicts the CO₂ emissions (in grams per kilometer) of a vehicle based on its engine and fuel consumption characteristics. The model uses machine learning to estimate emissions, helping users analyze the environmental impact of different vehicle configurations.
 
 📂 Project Structure
